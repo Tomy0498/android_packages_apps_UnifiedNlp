@@ -1,5 +1,5 @@
 [main]
-host = https://www.transifex.com
+host = https://github.com/microg/android_packages_apps_UnifiedNlp/edit/master/.tx/config
 lang_map = he: iw, zh_TW: zh-rTW, es_MX: es-rMX, pt_BR: pt-rBR
 
 [unifiednlp.strings]
